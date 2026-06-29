@@ -79,3 +79,8 @@ O Acesso via Chroot: O sistema base continua rodando na RAM, mas o usuário conf
 Este é o método onde o arquivo de imagem do sistema é colocado diretamente no disco rígido de forma bruta.
 Como funciona: Em vez de extrair as pastas e arquivos do sistema para o HD, o usuário simplesmente move o arquivo .iso / .img fechado para dentro do HD e configura o gerenciador de boot (GRUB) para ler esse arquivo diretamente do disco.
 Por que é considerado inviável a longo prazo? Toda vez que o computador iniciar, o GRUB vai ler a ISO do HD e carregar ela inteira na memória RAM novamente. O sistema continua operando como um ramfs temporário: você ganha a velocidade absurda da RAM, mas mantém o fator da imutabilidade. Nenhuma alteração feita nas pastas do sistema será salva no HD ao desligar, agindo exatamente como um Live-USB eterno, só que direto do disco rígido.
+
+---
+
+📸 Print Rodando no Sistema
+Esta seção mostra o Oxy OS v2.0 em execução direta no hardware, exibindo o tempo de atividade e o consumo de recursos na interface de linha de comando.
