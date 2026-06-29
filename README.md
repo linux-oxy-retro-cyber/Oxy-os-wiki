@@ -84,3 +84,4 @@ Por que é considerado inviável a longo prazo? Toda vez que o computador inicia
 
 📸 Print Rodando no Sistema
 Esta seção mostra o Oxy OS v2.0 em execução direta no hardware, exibindo o tempo de atividade e o consumo de recursos na interface de linha de comando.
+![Oxy OS v2.0 em Execução (IMG_20260629_114455971.jpg)
