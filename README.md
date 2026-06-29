@@ -98,7 +98,7 @@ mostrando a logo etc
 
  fastfetch 
 
-![Oxy OS v2.0 em fastfetch](1000002393.jpg)
+![Oxy OS v2.0 em fastfetch](IMG_20260629_142529880.jpg)
 
 estrutura de pasta e comando ls
 
