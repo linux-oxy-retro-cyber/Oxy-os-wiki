@@ -94,7 +94,7 @@ tela do grub
  tela de boas vindas do oxy os
 mostrando a logo etc
 
-![Oxy OS v2.0 tela](1000002392.jpg)
+![Oxy OS v2.0 tela](IMG_20260629_142439620.jpg)
 
  fastfetch 
 
