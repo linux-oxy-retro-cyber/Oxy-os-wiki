@@ -89,7 +89,7 @@ Esta seção mostra o Oxy OS v2.0 em execução direta no hardware, exibindo o t
 
 tela do grub
 
-![Oxy OS v2.0 grub](1000002390.jpg)
+![Oxy OS v2.0 grub](IMG_20260629_142308024.jpg)
 
  tela de boas vindas do oxy os
 mostrando a logo etc
