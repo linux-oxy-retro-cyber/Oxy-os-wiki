@@ -87,17 +87,21 @@ Esta seção mostra o Oxy OS v2.0 em execução direta no hardware, exibindo o t
 
 ![Oxy OS v2.0](IMG_20260629_114455971.jpg)
 
-## tela do grub
+tela do grub
+
 ![Oxy OS v2.0 grub](1000002390.jpg)
 
-## tela de boas vindas do oxy os
+ tela de boas vindas do oxy os
 mostrando a logo etc
+
 ![Oxy OS v2.0 tela](1000002392.jpg)
 
-## fastfetch 
+ fastfetch 
+
 ![Oxy OS v2.0 em fastfetch](1000002393.jpg)
 
-## estrutura de pasta e comando ls
+estrutura de pasta e comando ls
+
 ![Oxy OS v2.0 em ls](1000002395.jpg)
 
 
