@@ -102,7 +102,7 @@ mostrando a logo etc
 
 estrutura de pasta e comando ls
 
-![Oxy OS v2.0 em ls](1000002395.jpg)
+![Oxy OS v2.0 em ls](IMG_20260629_142627322.jpg)
 
 
 
